@@ -1,0 +1,14 @@
+.albums{
+    background-color: rgb(237, 249, 255);
+    color: white ;
+}
+
+.nav-bar{
+    background-color: gray;
+}
+
+#hero{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: fff;
+}
